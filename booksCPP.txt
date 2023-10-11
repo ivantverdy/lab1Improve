@@ -1,0 +1,61 @@
+4
+
+The Last Wish
+1993
+Annotation
+300
+3
+andrzej sapkowski
+may be me 123 check
+542351 check
+3
+Geralt
+main
+Yennefer
+secondary
+Lutic
+secondary
+
+Blood of Elves
+1994
+Annotation
+700
+3
+andrzej sapkowski
+may be me 123 check
+542351 check
+3
+Geralt
+main
+Yennefer
+secondary
+Lutic
+secondary
+
+The Hound of the Baskervilles
+1902
+annotation
+600
+1
+Arthur Conan Doyle
+2
+Sherlock Holmes
+main
+John Watson
+secondary
+
+Sword of Destiny
+1992
+annotation
+300
+3
+andrzej sapkowski
+may be me 123 check
+542351 check
+3
+Geralt
+main
+Yennefer
+secondary
+Lutic
+secondary
